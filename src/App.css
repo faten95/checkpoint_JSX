@@ -1,0 +1,16 @@
+.titlered {
+  text-align: center;
+  color: red;
+  background-color: lightgrey;
+  text-decoration: overline;
+}
+
+.img{
+  height: 20vw;
+  width: 20vw;
+}
+.displayimg {
+  display: flex;
+  justify-content: space-around;
+}
+
